@@ -14,6 +14,8 @@ BOM
 4x M2 heat set inserts, OD=3,2mm
 6x M3x12mm (or 16mm) DIN912 screws
 
+I recommend printing all the parts solid infill. Hollow infill may cause the case to be excessively loud. The plate may be printed in a more flexible material such as PETG for improved sound.
+
 The manifold is mounted as either a top mount or with 3D printed TPU pylons, picture attached
 ![Screenshot (94)](https://github.com/galile0-designs/manifold_kbd/assets/134774462/e1f36a0e-4a89-44e3-af3c-6360769ce2af)
 ![Screenshot (95)](https://github.com/galile0-designs/manifold_kbd/assets/134774462/add7e961-8f75-4749-8517-b8f546d10548)
