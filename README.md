@@ -15,6 +15,7 @@ Hardware
 4x M2x6 DIN912 screws
 4x M2 heat set inserts, OD=3,2mm, length < 4mm
 6x M3x12mm (or 16mm) DIN912 screws
+4x feet, 20mm diameter, 2 or 3 mm thick
 Switches and stabilizers
 handwire controller
 
