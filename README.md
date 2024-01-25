@@ -5,6 +5,10 @@
 ![DSC_0074](https://github.com/galile0-designs/manifold_kbd/assets/134774462/d598e111-5a81-476b-81a5-3b9dc948d9b2)
 GMK MTNU WoB keycaps. Printed with Formfutura Galaxy PLA Space Grey
 
+
+
+
+
 # make
 BOM
 16x M3x6 DIN912 screws
